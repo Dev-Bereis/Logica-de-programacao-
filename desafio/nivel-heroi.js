@@ -1,6 +1,6 @@
 // desafio 01 da dio.me 
 let nomeHeroi = "Miranha" ;
-let xpHeroi =  8567;
+let xpHeroi =  8596;
 let nivel = " " ;
 
 if (xpHeroi <= 1000){
