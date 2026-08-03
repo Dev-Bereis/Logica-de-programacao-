@@ -1,5 +1,6 @@
 let nivel = " "
 let saldo  
+
 function rankeada(vitoria, derrota){
     saldo = vitoria - derrota
     return saldo
